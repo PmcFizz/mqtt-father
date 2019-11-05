@@ -1,5 +1,20 @@
 # Ant Design Pro
 
+
+安装nodejs
+
+在项目主目录执行
+```
+npm i
+```
+安装完毕后 执行
+```
+npm run start
+```
+执行完这一步浏览器会自动打开项目首页
+
+
+
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
 
 ## Environment Prepare
